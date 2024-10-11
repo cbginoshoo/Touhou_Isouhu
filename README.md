@@ -1,5 +1,5 @@
 ## 東方異想符 Version 2.2.1 <a href="https://cbginoshoo.github.io/Touhou_Isouhu/"><img src="icon/icon.png" width=32></a>
- > [東方異想符をプレイ](https://cbginoshoo.github.io/Touhou_Isouhu/)
+> [東方異想符をプレイ](https://cbginoshoo.github.io/Touhou_Isouhu/)
 ## 著者  
 - 原作　:　`FantasticCreative`  
 - 私　:　`cbginoshoo`  
