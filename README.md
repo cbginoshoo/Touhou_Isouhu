@@ -1,4 +1,9 @@
 <link href="/fonts/gamefont.css" rel="stylesheet"></link>
+<style>
+  body{
+    font-family: "gamefont";
+  }
+</style>
 
 ## 東方異想符 Version 2.2.1 <a href="https://cbginoshoo.github.io/Touhou_Isouhu/"><img src="icon/icon.png" width=32></a>
 > [東方異想符をプレイ](https://cbginoshoo.github.io/Touhou_Isouhu/)
