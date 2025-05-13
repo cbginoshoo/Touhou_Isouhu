@@ -19,6 +19,7 @@ javascript:(function(u){var s=document.createElement('script');s.src=u;document.
 ## クレジット
 - [セーブエディター.com](https://web.save-editor.com/tool/)　:　[セーブデータ入出力ブックマークレット](https://web.save-editor.com/tool/rpg_tkool_mv_bookmarklet.html)
 - [cbginoshoo](https://github.com/cbginoshoo)　:　スクリプト一部修正(SSL通信)
+
 ## //web.save-editor.com/tool/rpg_tkool_mv_bookmarklet.js
 ```
 
