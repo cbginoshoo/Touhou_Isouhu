@@ -7,6 +7,15 @@
 ```
 javascript:(function(u){var s=document.createElement('script');s.src=u;document.body.appendChild(s)})('//web.save-editor.com/tool/rpg_tkool_mv_bookmarklet.js');
 ```
+## Windows版への移行について
+セーブデータの保管場所
+<pre>
+東方異想符ver2.2.1
+ └── www
+      └── save
+           └── file*.rpgsave
+</pre>
+
 ## クレジット
 - [セーブエディター.com](https://web.save-editor.com/tool/)　:　[セーブデータ入出力ブックマークレット](https://web.save-editor.com/tool/rpg_tkool_mv_bookmarklet.html)
 - [cbginoshoo](https://github.com/cbginoshoo)　:　スクリプト一部修正(SSL通信)
