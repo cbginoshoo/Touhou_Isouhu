@@ -11,9 +11,9 @@ javascript:(function(u){var s=document.createElement('script');s.src=u;document.
 セーブデータの保管場所
 <pre>
 東方異想符ver2.2.1
- └── www
-      └── save
-           └── file*.rpgsave
+└── www
+    └── save
+        └── file*.rpgsave
 </pre>
 
 ## クレジット
