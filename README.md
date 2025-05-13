@@ -2,7 +2,7 @@
 > [東方異想符をプレイ](https://cbginoshoo.github.io/Touhou_Isouhu/)
 >
 > セーブデータの管理はこちら↓<br>
-> [セーブデータ入出力ブックマークレット](https://web.save-editor.com/tool/rpg_tkool_mv_bookmarklet.html)
+> [rpg_tkool_mv_bookmarklet.md](https://github.com/cbginoshoo/Touhou_Isouhu/blob/main/rpg_tkool_mv_bookmarklet.md)
 ## 著者  
 - 原作　:　`FantasticCreative`  
 - 私　:　`cbginoshoo`  
