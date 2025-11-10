@@ -1,0 +1,12 @@
+{
+	"name": "“Œ•ûˆÙ‘z•„",
+	"start_url": "/",
+	"display": "fullscreen",
+	"icons": [
+		{
+			"src": "icon/icon.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		}
+	]
+}
