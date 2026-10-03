@@ -14,3 +14,27 @@
 <a href="http://www16.big.or.jp/~zun/">
   <img src="http://www16.big.or.jp/~zun/image/banner.gif" width=200 height=40>
 </a>
+
+## Question and Answer
+
+<details>
+  <summary><b>Q.</b> これって本家？</summary>
+  <b>A.</b> いいえ、違います。
+  <br>あくまで個人のブラウザプレイ用の移植版として作られました。
+</details>
+<details>
+  <summary><b>Q.</b> なぜ作られた？</summary>
+  <b>A.</b> ゲームアツマールがサ終したためです。
+  <br>2023/06/28にニコニコゲームアツマールがサービス終了しました。(2026年現在、今更Q&A書いてますがもう3年前なんですね...)
+  <br>よって、自分のようにWindows機を持っていなかった人は(少なくとも気軽には)遊べなくなったためです。
+</details>
+<details>
+  <summary><b>Q.</b> ゲームデータ等の改変については？</summary>
+  <b>A.</b> ありません。
+  <br>本家ダウンロードできるWindows向けファイルをブラウザで動作するように配置しただけで、ファイルの改変などは行っていません。
+</details>
+<details>
+  <summary><b>Q.</b> Windows機持ってる！</summary>
+  <b>A.</b> 本家をお使いください。クレジット欄に本家様のリンクがございます。
+  <br>セーブデータも移行できると思いますので、こだわりがなければ正規のexeアプリケーションをお使いください。
+</details>
